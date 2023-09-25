@@ -1,9 +1,9 @@
 #include <stdio.h>
 int main()
 {
-  int i;
-  for(i=0; i<5; i++)
+  int j;
+  for(j=0; j<10; j++)
   {
-    printf("Hello world\n");
+    printf("\nI love Maisara");
   }
 }
